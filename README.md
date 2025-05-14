@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Muhammad Usman Khan 
 
 ### **Full Stack Engineer** | **MERN Stack Specialist** | **AI & Data Science Explorer**
-[![LinkedIn](https://www.linkedin.com/in/muhammad-usman-khan-6b5a34332/)
-[![GitHub](https://github.com/MuhammadUsmanKhanFS/MuhammadUsmanKhanFS/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-khan-6b5a34332/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadUsmanKhanFS)
+
 
 ---
 
@@ -42,16 +43,8 @@
 
 ---
 
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usmankhan11797&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usmankhan11797&layout=compact&theme=dark)
-
----
-
 ## 📫 **Let's Connect!**
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [@YourHandle](https://twitter.com/yourhandle)
-- 📧 **Email**: your.email@example.com
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/muhammad-usman-khan-6b5a34332/)
+- 📧 **Email**: usmankhan.246085@gmail.com
 
 > *"Turning ideas into scalable, intelligent web solutions."* 🌟
